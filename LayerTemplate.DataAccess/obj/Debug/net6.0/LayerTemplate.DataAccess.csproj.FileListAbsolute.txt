@@ -1,0 +1,14 @@
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\bin\Debug\net6.0\LayerTemplate.DataAccess.deps.json
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\bin\Debug\net6.0\LayerTemplate.DataAccess.runtimeconfig.json
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\bin\Debug\net6.0\LayerTemplate.DataAccess.dll
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\bin\Debug\net6.0\LayerTemplate.DataAccess.pdb
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\obj\Debug\net6.0\LayerTemplate.DataAccess.csproj.AssemblyReference.cache
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\obj\Debug\net6.0\LayerTemplate.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\obj\Debug\net6.0\LayerTemplate.DataAccess.AssemblyInfoInputs.cache
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\obj\Debug\net6.0\LayerTemplate.DataAccess.AssemblyInfo.cs
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\obj\Debug\net6.0\LayerTemplate.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\obj\Debug\net6.0\LayerTemplate.DataAccess.dll
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\obj\Debug\net6.0\refint\LayerTemplate.DataAccess.dll
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\obj\Debug\net6.0\LayerTemplate.DataAccess.pdb
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\obj\Debug\net6.0\LayerTemplate.DataAccess.genruntimeconfig.cache
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.DataAccess\obj\Debug\net6.0\ref\LayerTemplate.DataAccess.dll

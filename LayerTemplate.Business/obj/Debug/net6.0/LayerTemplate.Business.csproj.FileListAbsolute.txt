@@ -1,0 +1,17 @@
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\bin\Debug\net6.0\LayerTemplate.Business.deps.json
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\bin\Debug\net6.0\LayerTemplate.Business.dll
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\bin\Debug\net6.0\LayerTemplate.Business.pdb
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\obj\Debug\net6.0\LayerTemplate.Business.csproj.AssemblyReference.cache
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\obj\Debug\net6.0\LayerTemplate.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\obj\Debug\net6.0\LayerTemplate.Business.AssemblyInfoInputs.cache
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\obj\Debug\net6.0\LayerTemplate.Business.AssemblyInfo.cs
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\obj\Debug\net6.0\LayerTemplate.Business.csproj.CoreCompileInputs.cache
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\obj\Debug\net6.0\LayerTemplate.Business.dll
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\obj\Debug\net6.0\refint\LayerTemplate.Business.dll
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\obj\Debug\net6.0\LayerTemplate.Business.pdb
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\obj\Debug\net6.0\ref\LayerTemplate.Business.dll
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\bin\Debug\net6.0\LayerTemplate.DataAccess.dll
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\bin\Debug\net6.0\LayerTemplate.Dto.dll
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\bin\Debug\net6.0\LayerTemplate.DataAccess.pdb
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\bin\Debug\net6.0\LayerTemplate.Dto.pdb
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Business\obj\Debug\net6.0\LayerTemplate.Business.csproj.CopyComplete

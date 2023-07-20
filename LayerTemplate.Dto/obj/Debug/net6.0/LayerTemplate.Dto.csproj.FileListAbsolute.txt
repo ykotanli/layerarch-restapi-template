@@ -1,0 +1,12 @@
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Dto\bin\Debug\net6.0\LayerTemplate.Dto.deps.json
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Dto\bin\Debug\net6.0\LayerTemplate.Dto.dll
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Dto\bin\Debug\net6.0\LayerTemplate.Dto.pdb
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Dto\obj\Debug\net6.0\LayerTemplate.Dto.csproj.AssemblyReference.cache
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Dto\obj\Debug\net6.0\LayerTemplate.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Dto\obj\Debug\net6.0\LayerTemplate.Dto.AssemblyInfoInputs.cache
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Dto\obj\Debug\net6.0\LayerTemplate.Dto.AssemblyInfo.cs
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Dto\obj\Debug\net6.0\LayerTemplate.Dto.csproj.CoreCompileInputs.cache
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Dto\obj\Debug\net6.0\LayerTemplate.Dto.dll
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Dto\obj\Debug\net6.0\refint\LayerTemplate.Dto.dll
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Dto\obj\Debug\net6.0\LayerTemplate.Dto.pdb
+C:\Users\YusufKaan\source\repos\LayerTemplate\LayerTemplate.Dto\obj\Debug\net6.0\ref\LayerTemplate.Dto.dll
